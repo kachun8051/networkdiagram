@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T07:52:54.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tcc-F9jjvx2IWT-aMPbi" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T07:55:38.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="kozOzBROO87BVspi3Psi" version="15.5.5" type="github">
   <diagram id="OdCgrnd6kdP5Gc1z8vqj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,7 +36,11 @@
           <mxGeometry x="110" y="350" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s2XTsGeKlisC5kTXxz9x-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-36" target="s2XTsGeKlisC5kTXxz9x-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2XTsGeKlisC5kTXxz9x-36" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="419" y="390" width="50" height="50" as="geometry" />
@@ -147,6 +151,24 @@
         </mxCell>
         <mxCell id="s2XTsGeKlisC5kTXxz9x-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/handheld-devices-and-hand-gestures/400/Handheld-03-128.png" vertex="1" parent="1">
           <mxGeometry x="9.800000000000011" y="440" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-89" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Laptop_Wireless.svg;" vertex="1" parent="1">
+          <mxGeometry x="31.59" y="592.6" width="106.21" height="87.4" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-90" target="s2XTsGeKlisC5kTXxz9x-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-90" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/LUMINA/networking/png/128/fax.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-92" value="Fax &amp;amp; Printer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="178" y="550" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-93" value="HandHeld" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49.69" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-94" value="Laptop (Wireless)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="39.69" y="685" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
