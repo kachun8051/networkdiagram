@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T08:20:16.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.5" etag="gE_c9pXA-fnklc9BdDnT" type="github"><diagram id="PYbKVMZJbTsnot82yyuq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-24T08:25:59.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="KVnj6YnHFO8CLoSIz7L6" version="15.5.5" type="github">
+  <diagram id="PYbKVMZJbTsnot82yyuq" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-1" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="164.84" height="103.85" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-4" value="ISP Cable Modem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-15" value="VPN Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-16" value="&lt;u&gt;Intranet through VPN&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-40" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="111.32" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-41" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="111.32" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-42" value="VPN Router (Warehouse)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150.65999999999997" y="319" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-43" value="VPN Router (Stores)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-44" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="254.28" width="73.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-45" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="73.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-46" value="ISP Cable Modem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="299" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-47" value="ISP Cable Modem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="491.67" y="440" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-48" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="491.67" y="204.98" width="111.32" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-49" value="VPN Router (Office)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489.84000000000003" y="283.98" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eQVRSoQWKjrvqLLebDk8-50" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="638.34" y="179.99999999999997" width="73.33" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
