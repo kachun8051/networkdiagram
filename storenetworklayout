@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T07:20:08.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.5" etag="OU7ygE6yqWyzakidhr49" type="github"><diagram id="OdCgrnd6kdP5Gc1z8vqj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-24T07:47:12.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="P3F-qtv7zztLQ_47g-92" version="15.5.5" type="github">
+  <diagram id="OdCgrnd6kdP5Gc1z8vqj" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-20" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="19.99999999999998" width="109.68" height="69.1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-23" target="s2XTsGeKlisC5kTXxz9x-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-23" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-24" value="ISP Cable Modem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="234.48" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-27" target="s2XTsGeKlisC5kTXxz9x-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-27" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="304.20000000000005" y="162.1" width="75.8" height="75.8" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-29" target="s2XTsGeKlisC5kTXxz9x-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-29" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137.8" y="274.28" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-30" value="Wireless Access Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-36" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="73.75" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-37" value="Switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="391.88" y="340" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s2XTsGeKlisC5kTXxz9x-49" target="s2XTsGeKlisC5kTXxz9x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-49" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="453.75" y="156" width="126.25" height="89.6" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-50" value="VPN Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="476.88" y="254.28000000000003" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-51" value="&lt;u&gt;Store Network Layout&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-54" value="Backbone Switch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="287.09999999999997" y="245.6" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="478" width="85.6" height="90.9" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-57" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="478" width="85.6" height="90.9" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-58" value="POS#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254.2" y="570" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-59" value="POS#2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/simple-shop-juicycons-1/64/Pos-128.png" vertex="1" parent="1">
+          <mxGeometry x="112" y="490" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/simple-shop-juicycons-1/64/Pos-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-62" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/POS_Printer.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="80.06" height="69.73" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/credit-cards-pos/384/contact_less-128.png" vertex="1" parent="1">
+          <mxGeometry x="112" y="600" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-64" value="Payment Terminal#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="96" y="570" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XTsGeKlisC5kTXxz9x-65" value="contactless payment &lt;br&gt;device#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="96" y="675" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
