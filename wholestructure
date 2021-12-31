@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T12:50:50.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wX1oIjrdwJFTAmbvo4YA" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T12:52:55.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ouyCU3Ux0lGJDnJHYeSu" version="16.1.2" type="github">
   <diagram id="kPb0j4PkTOTvibew71zT" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,9 +102,6 @@
             <mxPoint x="530" y="357.5" as="sourcePoint" />
             <mxPoint x="485" y="285" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YgZ1Gz7DZFVOBtpdQto7-31" value="&lt;h1&gt;MVC workflow&lt;/h1&gt;&lt;p&gt;1. Http Request&lt;/p&gt;&lt;p&gt;2. Controller receive the request and dispatch model(s) working together&lt;/p&gt;&lt;p&gt;3. models CRUD to Database and return the result&lt;/p&gt;&lt;p&gt;4. controller send Http Response back&lt;/p&gt;&lt;p&gt;5. The callback function process the response data&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
