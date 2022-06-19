@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T06:33:35.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.0" etag="JMtfClUBchr8E7_BPKlS" type="github"><diagram id="I6ABQMP3Z1WjqOMFAXek">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-19T06:45:47.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uW8YVSYq2RV2ao1yjuSU" version="19.0.0" type="github">
+  <diagram id="I6ABQMP3Z1WjqOMFAXek" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="90" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Box.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="103.9" width="130" height="122.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="152.56" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="315" width="110.68" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
