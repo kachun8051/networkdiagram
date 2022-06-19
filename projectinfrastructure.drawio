@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T06:45:47.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uW8YVSYq2RV2ao1yjuSU" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T06:53:17.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="B5KTDJ78mrSqH3UVC9tC" version="19.0.0" type="github">
   <diagram id="I6ABQMP3Z1WjqOMFAXek" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,44 @@
         </mxCell>
         <mxCell id="bs0ddbIRQVwxzKxCHdhj-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="570" y="315" width="110.68" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="bs0ddbIRQVwxzKxCHdhj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="190" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="270" />
+              <mxPoint x="120" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="bs0ddbIRQVwxzKxCHdhj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660.7666666666667" y="330" as="sourcePoint" />
+            <mxPoint x="645.3399999999999" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="270" />
+              <mxPoint x="630" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1.006;exitY=0.418;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bs0ddbIRQVwxzKxCHdhj-4" target="bs0ddbIRQVwxzKxCHdhj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-10" value="Android Tablet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146.28" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-11" value="Personal Computer with browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-12" value="Cloud database + API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ddbIRQVwxzKxCHdhj-13" value="Web Pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
